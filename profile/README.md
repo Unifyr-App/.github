@@ -1,1 +1,1 @@
-`Unifyr` is the company behind [Unifyr](https://unifyr.be), The Aggregated Calendar for everyone.
+We are the people behind [Unifyr](https://unifyr.be), The Aggregated Calendar for everyone.
